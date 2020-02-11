@@ -2586,6 +2586,9 @@ header.sticky nav.navbar.brand-center ul.nav > li > a {padding: 20px; margin: 0 
 .fa-caret-right:before{
     content:"\f0da"
 }
+.fa-instagram:before{
+    content:"\f16d"
+}
 .sr-only{
     border:0;
     clip:rect(0,0,0,0);
